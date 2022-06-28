@@ -4,7 +4,7 @@
 #
 Name     : pypi-cu2qu
 Version  : 1.6.7.post1
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/d9/98/139592d4e7fbfe61dfa64dd1fb2a5b2f0a119d8ea3abdf42d46edcddf48d/cu2qu-1.6.7.post1.zip
 Source0  : https://files.pythonhosted.org/packages/d9/98/139592d4e7fbfe61dfa64dd1fb2a5b2f0a119d8ea3abdf42d46edcddf48d/cu2qu-1.6.7.post1.zip
 Summary  : Cubic-to-quadratic bezier curve conversion
@@ -81,7 +81,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1656372506
+export SOURCE_DATE_EPOCH=1656409168
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
